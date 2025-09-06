@@ -15,4 +15,4 @@ The infrastructure includes:
   - Install Python3 & Flask.
   - Run the Flask app in the background.
  
-[Project Architecture](Images/architecture.png)
+![Project Architecture](Images/architecture.png)
