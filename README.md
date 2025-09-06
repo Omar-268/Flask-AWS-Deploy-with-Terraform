@@ -1,6 +1,6 @@
 # Flask-AWS-Deploy-with-Terraform
 
-##📖 Description
+## 📖 Description
 
 This project demonstrates how to provision AWS infrastructure and deploy a simple Flask web application automatically using Terraform provisioners.
 
