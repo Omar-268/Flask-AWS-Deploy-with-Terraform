@@ -14,3 +14,5 @@ The infrastructure includes:
   - Upload the Flask application (app.py + templates/).
   - Install Python3 & Flask.
   - Run the Flask app in the background.
+ 
+[Project Architecture](Images/architecture.png)
